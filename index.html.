@@ -81,6 +81,7 @@
     <button onclick="playVideo()">Click for Surprise 🎊</button>
 
     <div id="VideoBox">
+style="display:none;".
         <video id="birthdayVideo" width="300" controls>
             <source src="birthdayyyyy.mp4" type="video/mp4">
             Your browser does not support video.
